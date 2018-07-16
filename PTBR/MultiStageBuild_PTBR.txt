@@ -22,8 +22,8 @@ MultiStageBuild_PTBR = {
     MultiStageBuild_UpgradeMetalWindow_1To2 = "Melhorar para Janela de Ferro Lvl 2",
     MultiStageBuild_CreateMetalWindow_2 = "Criar Janela de Ferro Lvl 2",
      -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Melhorar para Moldura de Porta Madeira Lv l2",
-     MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Melhorar para Moldura de Porta Madeira Lvl 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Melhorar para Moldura de Porta Madeira Lv 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Melhorar para Moldura de Porta Madeira Lvl 3",
 }
 
 
