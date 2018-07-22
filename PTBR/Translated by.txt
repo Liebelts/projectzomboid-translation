@@ -16,4 +16,5 @@ Translated by Project Zomboid Brasil
 
 - Community Help on Beta Test
 	@RafaelPires
+	@Blodi peiter
 
