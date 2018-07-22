@@ -1,8 +1,8 @@
-tIGUI_PTBR = {
+IGUI_PTBR = {
 	-- All the UI text used in game
 	-- InventoryPane
 	IGUI_invpanel_Type = "Tipo",
-	IGUI_invpanel_Csçategory = "Categoria",
+	IGUI_invpanel_Category = "Categoria",
 	IGUI_invpanel_Pack = "Guardar",
 	IGUI_invpanel_unpack = "Tirar",
 	IGUI_invpanel_drop_all = "Largar tudo",
