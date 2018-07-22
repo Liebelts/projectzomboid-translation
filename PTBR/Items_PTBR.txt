@@ -394,7 +394,7 @@
 	DisplayName_March_Ridge_Map = "Mapa de March Ridge",
 	DisplayName_Muldraugh_Map = "Mapa de Muldraugh",
 	DisplayName_Rosewood_Map = "Mapa de Rosewood",
-	DisplayName_Westpoint_Map = "Mapa de Westpoint",
+	DisplayName_Westpoint_Map = "Mapa de West Point",
 	DisplayName_Pencil = "Lápis",
 	DisplayName_Pepper = "Pimenta",
 	DisplayName_Perch = "Perca",
