@@ -1,7 +1,7 @@
 Moodles_PTBR = {
 	-- Moodle type :
 	-- Endurance
-	Moodles_endurance_lvl1 = "Cansando",
+	Moodles_endurance_lvl1 = "Ofegante",
 	Moodles_endurance_lvl2 = "Cansado",
 	Moodles_endurance_lvl3 = "Muito Cansado",
 	Moodles_endurance_lvl4 = "Exausto",
@@ -132,9 +132,9 @@ Moodles_PTBR = {
 	Moodles_tired_desc_lvl3 = "Com sono demais pra pensar.",
 	Moodles_tired_desc_lvl4 = "Atenção drásticamente reduzida.",
 	-- Hungry
-	Moodles_hungry_desc_lvl1 = "Já podia comer.",
-	Moodles_hungry_desc_lvl2 = "Querendo comer alguma coisa.",
-	Moodles_hungry_desc_lvl3 = "Fraqueza, precisando comer.",
+	Moodles_hungry_desc_lvl1 = "Podia comer um petisco.",
+	Moodles_hungry_desc_lvl2 = "Sentindo fome.",
+	Moodles_hungry_desc_lvl3 = "Fraqueza, necessitando comida.",
 	Moodles_hungry_desc_lvl4 = "Literalmente morrendo de fome...",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "Relaxe.",
@@ -207,7 +207,7 @@ Moodles_PTBR = {
 	Moodles_hyperthermia_desc_lvl4 = "Começando a delirar, literalmente cozinhando.",
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "Esfriou né?",
-	Moodles_hypothermia_desc_lvl2 = "Precisando se aquecer!.",
+	Moodles_hypothermia_desc_lvl2 = "Precisando se aquecer!",
 	Moodles_hypothermia_desc_lvl3 = "Não sente mais as extremidades."
 	Moodles_hypothermia_desc_lvl4 = "Não sente mais o corpo, perdendo a consciência.",
 }
