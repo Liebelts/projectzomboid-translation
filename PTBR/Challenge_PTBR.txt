@@ -49,4 +49,3 @@ Challenge_PTBR = {
 	Challenge_WinterIsComingInfoBox = " <CENTRE> Em três dias, começa um inverno sem fim. <LINE> <LINE> Melhor se aquecer...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Em 24 horas, sua viagem de volta ao condado de Knox vai virar o inferno na terra...",
 }
-

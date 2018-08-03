@@ -26,7 +26,7 @@ Moveables_PTBR = {
     BargnClothes_Sign = "Placa Barg n Clothes",
     Barrel = "Barril",
     Barrier_Post = "Poste de Barreira",
-    Bathroom_Rug = "Tepete de Banheiro",
+    Bathroom_Rug = "Tapete de Banheiro",
     Battered_Cartboard_Box = "Velha Caixa de Papelão",
     Battered_Gravestone = "Lápide Velha",
     Battered_Notices = "Jornal Velho",
@@ -683,5 +683,3 @@ Moveables_PTBR = {
     Wooden_Stairs = "Escadas de Madeira",
 
 }
-
-
