@@ -14,8 +14,9 @@ Translated by Project Zomboid Brasil
 - Description:
 	For news, updates, and patch notes: https://www.facebook.com/ProjectZomboidBrasil/
 
-- Community Help on Beta Test:
-	@raqueiroz
-	@LIEBELTS
-	@Mycont
+- Community Help on Beta Test (Steam):
+	raqueiroz
+	LIEBELTS
+	Mycont
+	blakezinn
 
