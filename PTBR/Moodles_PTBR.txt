@@ -43,13 +43,13 @@ Moodles_PTBR = {
 	-- Sick
 	Moodles_sick_lvl1 = "Enjoado",
 	Moodles_sick_lvl2 = "Nauseado",
-	Moodles_sick_lvl3 = "Febril",
-	Moodles_sick_lvl4 = "Doente",
+	Moodles_sick_lvl3 = "Doente",
+	Moodles_sick_lvl4 = "Febrio",
 	-- Bored
-	Moodles_bored_lvl1 = "Entediado",
-	Moodles_bored_lvl2 = "Muito Entediado",
-	Moodles_bored_lvl3 = "Extremamente Entediado",
-	Moodles_bored_lvl4 = "Ficando Louco",
+	Moodles_bored_lvl1 = "Ficando Entediado",
+	Moodles_bored_lvl2 = "Entediado",
+	Moodles_bored_lvl3 = "Muito Entediado",
+	Moodles_bored_lvl4 = "Extremamente Entendiado",
 	-- Unhappy
 	Moodles_unhappy_lvl1 = "Chateado",
 	Moodles_unhappy_lvl2 = "Triste",
@@ -71,14 +71,14 @@ Moodles_PTBR = {
 	Moodles_hascold_lvl3 = "Gripado",
 	Moodles_hascold_lvl4 = "Com Pneumonia",
 	-- Injured
-	Moodles_injured_lvl1 = "Machucado",
-	Moodles_injured_lvl2 = "Muito Machucado",
-	Moodles_injured_lvl3 = "Gravemente Ferido",
-	Moodles_injured_lvl4 = "Moribundo",
+	Moodles_injured_lvl1 = "Feridas leves",
+	Moodles_injured_lvl2 = "Ferido",
+	Moodles_injured_lvl3 = "Muito Ferido",
+	Moodles_injured_lvl4 = "Gravemente Ferido",
 	-- Pain
-	Moodles_pain_lvl1 = "Meio Dolorido",
+	Moodles_pain_lvl1 = "Dor leve",
 	Moodles_pain_lvl2 = "Sentindo Dor",
-	Moodles_pain_lvl3 = "Sentindo Muita Dor",
+	Moodles_pain_lvl3 = "Dor Intensa",
 	Moodles_pain_lvl4 = "Em Agonia",
 	-- Drunk
 	Moodles_drunk_lvl1 = "Tonto",

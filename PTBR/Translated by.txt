@@ -8,8 +8,9 @@ Translated by Project Zomboid Brasil
 	Bruno Duarte Machado (DuMa)
 	Alan Johny Souza Carvalho (JohnySouzac)
 	Pedro Thiago Lobato (JokerQuinn)
+	Rodrigo Mantoan (MantoanR)
 -Reviewer
-	Rodrigo Mantoan (Mantoan)
+	Rodrigo Mantoan (MantoanR)
 
 - Description:
 	For news, updates, and patch notes: https://www.facebook.com/ProjectZomboidBrasil/

@@ -1,6 +1,6 @@
 Tooltip_PTBR = {
 	-- Item tooltip
-	Tooltip_food_Uncooked = "Crú",
+	Tooltip_food_Uncooked = "Cru",
 	Tooltip_food_Rotten = "Podre",
 	Tooltip_food_Fresh = "Fresco",
 	Tooltip_food_Cooked = "Cozido",
@@ -12,7 +12,7 @@ Tooltip_PTBR = {
 	Tooltip_food_Stress = "Estresse",
 	Tooltip_food_Boredom = "Tédio",
 	Tooltip_food_Unhappiness = "Tristeza",
-	Tooltip_food_Dangerous_uncooked = "Perigoso Consumido Crú",
+	Tooltip_food_Dangerous_uncooked = "Perigoso Consumido Cru",
 	Tooltip_tissue_tooltip = "Equipar para silenciar espirros e tosses",
 	Tooltip_item_Weight = "Peso",
 	Tooltip_item_Temperature = "Temperatura",

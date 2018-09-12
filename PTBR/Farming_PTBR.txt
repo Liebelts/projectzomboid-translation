@@ -16,19 +16,19 @@ Farming_PTBR = {
   Farming_Receding = "Murchando",
   Farming_Rotten = "Podre",
   Farming_Destroyed = "Destruída",
-  -- informações da agricultura
-  -- título
+  -- farming info text
+  -- title
   Farming_Plant_Information = "Informação da Planta",
   Farming_Current_growing_phase = "Estágio Atual",
   Farming_Next_growing_phase = "Próximo Estágio",
   Farming_Last_time_watered = "Regado por último",
   Farming_Fertilized = "Fertilizado",
-  Farming_Health = "Saúde",
-  Farming_Disease = "Doença",
+  Farming_Health = "Saudável",
+  Farming_Disease = "Doente",
   Farming_Water_levels = "Níveis de Água",
   -- água
   Farming_Well_watered = "Bem Regado",
-  Farming_Fine = "Bem",
+  Farming_Fine = "Bom",
   Farming_Thirsty = "Sedenta",
   Farming_Dry = "Secando",
   Farming_Parched = "Ressecada",
