@@ -360,6 +360,8 @@ ContextMenu_PTBR = {
 	ContextMenu_Vehicle_Closewindow = "Fechar %1",
 	ContextMenu_Vehicle_Openwindow = "Abrir %1",
 	ContextMenu_Vehicle_PlugGenerator = "Ligar o gerador ao veículo",
-	ContextMenu_ChargeCarBattery = "Recarregar bateria do carro",
+	ContextMenu_CarBatteryCharger_ConnectBattery = "Conectar Bateria ao Carro",
+	ContextMenu_CarBatteryCharger_Place = "Colocar Carregador de Bateria do Carro",
+	ContextMenu_CarBatteryCharger_Take = "Retirar Carregador de Bateria do Carro",
 	ContextMenu_RemoveBurntVehicle = "Desmontar carro quebrado",
 }
