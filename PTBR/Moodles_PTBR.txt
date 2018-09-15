@@ -219,5 +219,15 @@ Moodles_PTBR = {
 	Moodles_hypothermia_desc_lvl2 = "Precisando se aquecer!",
 	Moodles_hypothermia_desc_lvl3 = "Não sente mais as extremidades."
 	Moodles_hypothermia_desc_lvl4 = "Não sente mais o corpo, perdendo a consciência.",
+	    -- Cooling down
+   	 Moodles_coolingdown_desc_lvl1 = "Está fresquinho.",
+   	 Moodles_coolingdown_desc_lvl2 = "Está se refrescado.",
+    	Moodles_coolingdown_desc_lvl3 = "Você esta se refrescando bem rápido.",
+    	Moodles_coolingdown_desc_lvl4 = "Tão fresquinho que está de boa na lagoa.",
+    	-- Warming up
+    	Moodles_warmingup_desc_lvl1 = "Está bem quentinho.",
+    	Moodles_warmingup_desc_lvl2 = "Está se esquentando.",
+    	Moodles_warmingup_desc_lvl3 = "Está se esquenteando bem rápido."
+    	Moodles_warmingup_desc_lvl4 = "Tão quentinho que parece que está sendo abraçado por um urso.",
 }
 
