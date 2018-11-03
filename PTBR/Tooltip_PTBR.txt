@@ -195,6 +195,8 @@ Tooltip_PTBR = {
     Tooltip_craft_doubleWoodenDoorDesc = "Uma porta dupla grande o suficiente para deixar passar veículos.",
     Tooltip_craft_pressToRotate = "Pressione '% 1' para girar durante a construção.",
     Tooltip_removeBurntVehicle = "Desmontar a carcaça do carro com uma máscara de solda e uma tocha de propano irá removê-la e fornecer materiais de construção metálicos. <LINE> Com a habilidade de metalurgia alta, terá mais recursos úteis recuperados.",
-    
+    Tooltip_lightFireNoStick = "Requer gravetos para acender o fogo.",
+    Tooltip_item_Insulation = "Isolamento",
+    Tooltip_NeedWrench = "Você precisa de uma %1 para fazer isso.",
     }
 
