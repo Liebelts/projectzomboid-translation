@@ -364,4 +364,5 @@ ContextMenu_PTBR = {
 	ContextMenu_CarBatteryCharger_Place = "Colocar Carregador de Bateria do Carro",
 	ContextMenu_CarBatteryCharger_Take = "Retirar Carregador de Bateria do Carro",
 	ContextMenu_RemoveBurntVehicle = "Desmontar carro quebrado",
+	ContextMenu_PlumbItem = "Plumb %1"
 }
