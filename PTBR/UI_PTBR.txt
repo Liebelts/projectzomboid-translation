@@ -36,7 +36,7 @@ UI_PTBR = {
 	UI_coopscreen_server_stopped = "Servidor parou enquanto iniciava (%1)",
 	UI_coopscreen_softreset = "RESET PARCIAL",
 	UI_coopscreen_softreset_prompt = "Um Reset Parcial faz tudo isso em um servidor:\n\nMantém prédios e construções.\nRemove itens de contêineres e do chão.\nRemove Corpos, zumbis mortos e jogadores zumbificados.\nRemove manchas de sangue.\nReseta o tempo.\nReseta os alarmes.\n\nIsso pode levar alguns minutos.\nResetar Parcialmente o Servidor?",
-	UI_coopscreen_softreset_status = "Aplicando um Reset Parcial",
+	UI_coopscreen_sof 9.0c Sem Revisãotreset_status = "Aplicando um Reset Parcial",
 	UI_coopscreen_delete_world = "APAGAR O MAPA",
 	UI_coopscreen_delete_world_prompt = "Você está prestes a apagar o arquivo de mapa do servidor.\nTodo o mapa será perdido!\n\nEste arquivo será apagado:\n%1\n\nApagar o mapa?",
 	UI_coopscreen_delete_player = "Apagar Jogador",
@@ -1169,4 +1169,5 @@ UI_PTBR = {
 	UI_chat_context_disable = "Disable",
 	UI_chat_context_enable = "Enable",
 	UI_servers_needPwd = "Please enter a password for your account to protect it."
+	UI_servers_notvalid_username = "O Nome de usuario deve ter pelo menos 3 caracters com no máximo 20 e não pode conter os seguintes caracteres: ; . ' ? \ @ $",
 }
