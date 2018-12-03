@@ -206,9 +206,9 @@ Moodles_PTBR = {
 	Moodles_zombified_desc_lvl1 = "Desejos repentinos de comer pessoas.",
 	-- Food eaten
 	Moodles_foodeaten_desc_lvl1 = "Satisfeito por enquanto",
-	Moodles_foodeaten_desc_lvl2 = "Muito satisfeito! Saúde e força aumentados .",
-	Moodles_foodeaten_desc_lvl3 = "Estômago feliz! Ainda que vá passar trabalho...",
-	Moodles_foodeaten_desc_lvl4 = "Barriga Explodindo! E pra queimar isso agora?",
+	Moodles_foodeaten_desc_lvl2 = "Barriga Cheia! Sensação gostosa em seu intestino.",
+	Moodles_foodeaten_desc_lvl3 = "Estômago feliz! Saúde e força aumentados.",
+	Moodles_foodeaten_desc_lvl4 = "Barriga Explodindo! E pra queimar essa caloria agora?",
 	-- Hyperthermia
 	Moodles_hyperthermia_desc_lvl1 = "Que calor...",
 	Moodles_hyperthermia_desc_lvl2 = "Com sede, suado e com muito calor.",
