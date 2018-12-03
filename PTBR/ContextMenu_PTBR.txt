@@ -186,7 +186,7 @@ ContextMenu_PTBR = {
 	ContextMenu_Create_From_Ingredient = "Criar ",
 	ContextMenu_Add_Ingredient = "Adicionar",
 	ContextMenu_From_Ingredient = "de ",
-	ContextMenu_Medical_Check = "Avaliação Mécida",
+	ContextMenu_Medical_Check = "Avaliação Médida",
 	ContextMenu_Remove_Bandage = "Retirar Bandagem",
 	ContextMenu_Bandage = "Bandagem",
 	ContextMenu_Disinfect = "Desinfectar",
@@ -364,5 +364,5 @@ ContextMenu_PTBR = {
 	ContextMenu_CarBatteryCharger_Place = "Colocar Carregador de Bateria do Carro",
 	ContextMenu_CarBatteryCharger_Take = "Retirar Carregador de Bateria do Carro",
 	ContextMenu_RemoveBurntVehicle = "Desmontar carro quebrado",
-	ContextMenu_PlumbItem = "Plumb %1"
+	ContextMenu_PlumbItem = "Soldando %1"
 }
