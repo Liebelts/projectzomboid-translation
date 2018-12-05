@@ -21,5 +21,4 @@ Translated by Project Zomboid Brasil
 	Mycont
 	blakezinn
 	NiceChris
-        Liebelts
 
