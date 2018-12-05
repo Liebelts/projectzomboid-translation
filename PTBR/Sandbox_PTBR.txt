@@ -527,6 +527,16 @@ Sandbox_PTBR = {
     Sandbox_RecentlySurvivorVehicles_option1 = "Baix",
     Sandbox_RecentlySurvivorVehicles_option2 = "Normal",
     Sandbox_RecentlySurvivorVehicles_option3 = "Alta",
+    Sandbox_MaxFogIntensity = "INTENSIDADE DE NÉVOA MÁXIMA",
+    Sandbox_MaxFogIntensity_option1 = "Normal",
+    Sandbox_MaxFogIntensity_option2 = "Moderado",
+    Sandbox_MaxFogIntensity_option3 = "Baixo",
+    Sandbox_MaxRainFxIntensity = "INTENSIDADE MÁXIMA DE FX DA CHUVA",
+    Sandbox_MaxRainFxIntensity_option1 = "Normal",
+    Sandbox_MaxRainFxIntensity_option2 = "Moderado",
+    Sandbox_MaxRainFxIntensity_option3 = "Baixo",
+    Sandbox_EnableSnowOnGround = "ATIVAR A NEVE NO SOLO:",
+    Sandbox_EnableSnowOnGround_tooltip = "Se desativada, a neve não irá se acumular no chão, mas ainda será visível na vegetação e telhados.",
 }
 
 
