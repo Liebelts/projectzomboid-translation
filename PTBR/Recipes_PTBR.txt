@@ -1,4 +1,4 @@
-sRecipe_PTBR = {
+Recipe_PTBR = {
 	Recipe_Make_Campfire_Kit = "Fazer uma Fogueira",
 	Recipe_GetSteelAndFlint = "Obter Aço e Sílex",
 	Recipe_Make_Kindling = "Fazer Gravetos",
