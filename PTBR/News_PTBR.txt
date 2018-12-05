@@ -3,5 +3,5 @@
 	-- Update history
 	-- Build-39.68
 	-- Date 08-14-2018
-	-- Translation by DuMa, JohnySouzac, JokerQuinn and MantoanR
+	-- Translation by DuMa, JohnySouzac, MantoanR and JokerQuinn
 
