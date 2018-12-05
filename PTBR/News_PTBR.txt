@@ -1,7 +1,7 @@
 
 	-- Official Portuguese Translation Data Information
 	-- Update history
-	-- Build-39.68
-	-- Date 08-14-2018
+	-- Build-40.35
+	-- Date 12-05-2018
 	-- Translation by DuMa, JohnySouzac, MantoanR and JokerQuinn
 
